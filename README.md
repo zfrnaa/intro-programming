@@ -2,7 +2,7 @@
 Dive into fundamental and most basic of programming or coding.
 
 I was from a different background, to be exact, Applied Science student. But that's does not mean I don't really know about something robot stuff (joke 😄).
-I meant blindly do not know about computer and tech. Thankful to my family siblings especially my dad, that introduced me to use computer.
+I meant blindly do not know about computer and tech. Thankfully my family especially my dad, that introduced me to use computer.
 So, I got to used old Windows where the interface super basic, greyish, non-HD, grain looking. I still remember the old time where I played games with my siblings. 
 
 OK. That is enough for the background of young me.
