@@ -1,22 +1,31 @@
-# intro-programming
-Dive into fundamental and most basic of programming or coding.
+# Welcome to the Intro to Programming repository!
 
-I was from a different background, to be exact, Applied Science student. But that's does not mean I don't really know about something robot stuff (joke 😄).
-I meant blindly do not know about computer and tech. Thankfully my family especially my dad, that introduced me to use computer.
-So, I got to used old Windows where the interface super basic, greyish, non-HD, grain looking. I still remember the old time where I played games with my siblings. 
+This repository contains a series of topic designed to help you learn the basics of programming, including variables, data types, functions, and loops.
 
-OK. That is enough for the background of young me.
+> To get started, clone the repository to your local machine and open it in a code editor. Then, start working on the exercises in the order that they are presented.
 
-- I was introduced officially to programming by admission to the Bachelor Degree level. It is Multimedia Computing. So it kind of mixed multimedia with programming. Unofficially through just my eager self to know how to develop a web. 
-HTML and CSS is my early age even I know it is just styling and markup language. It is still a step further to know about Computer Science, right?
+If you get stuck on any topic, don't be afraid to ask for help. There are many resources available online, and you can also post a question on the GitHub repository.
 
-## Programming journey
-Definitely exciting and tired one
+## What you will learn
 
-- C was my first official programming language (exclude HTML and CSS a few years back)
-- Feeling anxious if I could pull it through or not but eventually finished my first year in university (July 2023)
-- Data Structure quite hard for me to imagine/remember the structure but easy through visual presentation
-- Started learning new language in August till now. Alley-OOP (Java)
+Variables and data types
+Functions
+Loops
+Conditional statements
+Arrays
+File I/O
 
-## Anything beside programming?
-The answer is yes. I have been interested in data analyst, visualization and the improvement of AI topic. Hopefully can dive into Data Visualization later.
+### Prerequisites
+- No prior programming experience is necessary.
+
+### How to contribute
+> If you find a mistake in one of the exercises, or if you have a suggestion for how to improve the repository, please feel free to submit a pull request.
+
+### Questions?
+If you have any questions, please feel free to create an issue on the GitHub repository.
+
+Additional notes
+
+- The exercises in this repository are designed to be completed in C.
+- The repository also includes a solution for each exercise.
+- If you are new to programming, I recommend starting with the exercises in the `variables_data_types` directories.
