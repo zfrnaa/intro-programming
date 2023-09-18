@@ -2,6 +2,8 @@
 
 This repository contains a series of topic designed to help you learn the basics of programming, including variables, data types, functions, and loops.
 
+It uses C language as a starting point.
+
 > To get started, clone the repository to your local machine and open it in a code editor. Then, start working on the exercises in the order that they are presented.
 
 If you get stuck on any topic, don't be afraid to ask for help. There are many resources available online, and you can also post a question on the GitHub repository.
